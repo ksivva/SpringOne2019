@@ -35,4 +35,4 @@ Presenter - [Madhura Bhave](https://springoneplatform.io/2019/sessions/how-to-ge
 
 * Use Spring Boot Devtools module to improve developer productivity by not restarting the Spring Boot App everytime code changes are made locally. Spring Boot Devtools monitors the classpath and any change to the class files automatically restarts the Spring Boot App much faster
 
-* Talked about enhancements in [Spring Boot 2.2] (https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2.0-Draft-Release-Notes)
+* Talked about enhancements in [Spring Boot 2.2](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2.0-Draft-Release-Notes)
